@@ -1,12 +1,17 @@
-<!-- Banner Image -->
+<!-- Banner GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&width=800&lines=Hi+I'm+Obada+;Software+Developer+from+Palestine+🇵🇸;Full-Stack+Developer+💻;Flutter+Mobile+Dev+📱" alt="Obada Banner"/>
+  <img src="https://media.giphy.com/media/gKHGnB1ml0moQdjhEJ/giphy.gif" alt="Obada Banner" width="100%"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Obada+;Software+Developer+from+Palestine+;Flutter+Mobile+Dev+;Python+Tools+Builder+" alt="Typing SVG"/>
 </p>
 
 ---
 
 <p align="center">
-   <b>Software Developer</b> | 📱 <b>Mobile Dev (Flutter)</b> | 🐍 <b>Python Tools</b> | 🇵🇸 <b>Palestine</b>
+   <b>Software Developer</b> |  <b>Mobile Dev (Flutter)</b> |  <b>Python Tools</b> |  <b>Palestine</b>
 </p>
 
 ---
