@@ -1,11 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="BANNER_IMAGE_URL_HERE" alt="Obada Banner" width="100%"/>
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Obada+from+Palestine+🇵🇸;Full-Stack+Developer+💻;Flutter+Mobile+Dev+📱;Python+Tools+Builder+🐍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&width=800&lines=Hi+I'm+Obada+;Software+Developer+from+Palestine+🇵🇸;Full-Stack+Developer+💻;Flutter+Mobile+Dev+📱" alt="Obada Banner"/>
 </p>
 
 ---
@@ -29,7 +24,7 @@ class Obada:
 
     def currently_doing(self):
         return [
-            " Building PharmaSmart (Graduation Project)",
+            "💊 Building PharmaSmart (Graduation Project)",
             "🌱 Learning advanced Flutter & Dart",
             "🛠️ Developing desktop tools with Python",
             "📚 Exploring Cybersecurity fundamentals"
