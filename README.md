@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/gKHGnB1ml0moQdjhEJ/giphy.gif" alt="Obada Banner" width="100%"/>
+  <img src="https://media.giphy.com/media/gKHGnB1ml0moQdjhEJ/giphy.gif" alt="Obada Banner" width="50%"/>
 </p>
 
 <!-- Typing Animation -->
